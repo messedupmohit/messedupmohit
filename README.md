@@ -1,19 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Mohit Kukreja
 
-<!--
-**messedupmohit/messedupmohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate in Cyber Security Engineering  
+🛡️ CompTIA Security+ Certified  
+🔍 Aspiring SOC / Security Analyst  
+🧠 Actively doing CTFs on TryHackMe  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+
+I’m a cybersecurity graduate with hands-on experience through labs, simulations, and capture-the-flag challenges. I enjoy breaking down security problems, analysing threats, and continuously improving my defensive skills through practical learning.
+
+I focus on **blue team fundamentals**, **incident response thinking**, and **security monitoring concepts**, with a strong interest in **SOC operations**.
+
+---
+
+## 🏴‍☠️ TryHackMe
+
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3561516)
+
+---
+
+## 🚀 Goals
+
+- Land my first role in cybersecurity  
+- Build strong SOC and incident response fundamentals  
+- Continuously learn through labs, projects, and real-world scenarios  
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/kukreja-mohit  
+📧 Email: kukrejamohit1011@gmail.com  
+
 
 
 ![GitHub Snake Light](https://github.com/messedupmohit/messedupmohit/blob/output/snake.svg#gh-light-mode-only)
