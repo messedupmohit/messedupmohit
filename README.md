@@ -17,7 +17,7 @@ I focus on **blue team fundamentals**, **incident response thinking**, and **sec
 
 ## 🏴‍☠️ TryHackMe
 
-![TryHackMe Badge](https://tryhackme.com/badge/3561516)
+https://tryhackme.com/p/messedupmohit
 
 ---
 
