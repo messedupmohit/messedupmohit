@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohit Kukreja
+# 👋 Hi, I’m *Mohit Kukreja*
 
 🎓 Graduate in Cyber Security Engineering  
 🛡️ CompTIA Security+ Certified  
