@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Platane/snk@master
         with:
-          github_user_name: mohitkukreja   # replace with your username
+          github_user_name: messedupmohit   # replace with your username
           outputs: dist/snake.svg
       - uses: crazy-max/ghaction-github-pages@v2
         with:
