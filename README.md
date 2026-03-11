@@ -32,7 +32,7 @@ https://tryhackme.com/p/messedupmohit
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/kukreja-mohit  
-📧 Email: kukrejamohit1011@gmail.com  
+📧 Email: kukrejamohit1011@gmail.com
 
 
 
